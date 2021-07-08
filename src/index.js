@@ -8,5 +8,5 @@ function start(client) {
   /*
   Message handling hwre
   */
-  client.onMessage(m=>messageHandler(m));
+  client.onMessage(messageHandler);
 }
