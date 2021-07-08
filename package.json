@@ -1,0 +1,28 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "This bot is aiming to be leveling bot. From the creator of GanyuBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BbayuGt/WhatsApp-Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "BbayuGt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BbayuGt/WhatsApp-Bot/issues"
+  },
+  "homepage": "https://github.com/BbayuGt/WhatsApp-Bot#readme",
+  "dependencies": {
+    "random": "^3.0.6"
+  }
+}
